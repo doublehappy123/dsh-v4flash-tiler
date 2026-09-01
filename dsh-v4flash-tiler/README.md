@@ -12,15 +12,17 @@ DSH profile bundle：在会话的 `agent/pre-step` 瀑布上挂一个根监听�
 
 ## 安装
 
+官方发布说明（[deepseek-harness docs/user/develop/basic/publish](https://github.com/deepseek-ai/deepseek-harness/blob/main/docs/user/develop/basic/publish.zh.md)）：
+
 ```bash
 # 1) 安装 Python 引擎（仓库根目录）
 pip install -e .
 
-# 2) 安装到 profile（示例 web）
-cd ~/.dsh/profiles/web
-pnpm add file:D:/dsh_files/dsh-v4flash-tiler
-# 把 "dsh-v4flash-tiler" 追加到 package.json 的 dsh.profile.bundles 列表
-# 重启 DSH（该 profile）
+# 2) 安装组合包到 profile（示例 web；纯 JS 无构建，git 直装即可）
+dsh plugin --profile web add github:doublehappy123/dsh-v4flash-tiler
+# 或本地 checkout：dsh plugin --profile web add ./dsh-v4flash-tiler
+
+# 3) 重启 DSH（该 profile）
 ```
 
 ## 结构

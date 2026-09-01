@@ -23,14 +23,19 @@ pip install -e .
 export DEEPSEEK_API_KEY="..."
 ```
 
-### 2. DSH 插件（web profile 示例）
+### 2. DSH 插件（profile bundle）
+
+官方发布说明（[docs/user/develop/basic/publish](https://github.com/deepseek-ai/deepseek-harness/blob/main/docs/user/develop/basic/publish.zh.md)）允许两种安装形态：
 
 ```bash
-cd ~/.dsh/profiles/web
-pnpm add file:../..  # 或 file:/绝对路径/dsh-v4flash-tiler（见下方说明）
+# GitHub 直装（纯 JS 插件无需构建，无需 allowBuilds 授权）
+dsh plugin --profile web add github:doublehappy123/dsh-v4flash-tiler
+
+# 或本地 checkout 安装
+dsh plugin --profile web add ./dsh-v4flash-tiler
 ```
 
-把 `dsh-v4flash-tiler` 追加进 profile `package.json` 的 `dsh.profile.bundles` 列表，重启 DSH。插件内以 `python -m v4flash_tiler.driver` 调用引擎，工作目录需指向本仓库。
+`dsh plugin add` 会初始化 profile（若需）、把组合包追加进 `dsh.profile.bundles`，重启 DSH 即生效。插件内以 `python -m v4flash_tiler.driver` 调用引擎，Python 引擎需先 `pip install -e .`（或 `pip install .`）。
 
 > 每个 DSH profile 插件栈独立，需按 profile 分别安装（web / desktop 等）。
 
