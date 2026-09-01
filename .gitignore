@@ -10,3 +10,4 @@ node_modules/
 *.log
 debug.log
 _prestep_diag*
+.github/UPSTREAM_CHANGES.md

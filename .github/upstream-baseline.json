@@ -1,0 +1,13 @@
+{
+  "paths": {
+    "docs/user/develop/basic/publish.zh.md": "0b5eba0c8d59e8310cd0050a21832c5840ee0cfb",
+    "docs/subsystems/scope.zh.md": "8d3674695ba708d90719fad504357c1897fd7fce",
+    "docs/subsystems/attachment.zh.md": "30704dc1df10a54c31d0ad6513bcc2690feaf9de",
+    "docs/subsystems/tools.zh.md": "70af4edf3e12b27b17218234979975e322257a12",
+    "docs/subsystems/shell.zh.md": "93a1b569ac8974680733bca0b52a92dd787f50e0",
+    "docs/subsystems/core.zh.md": "4553c9d957ec09c1e92660ca4d549cfcef84eda9",
+    "docs/subsystems/web-client.zh.md": "e57e7c3f25c4d2386e74600ac6fe0faa14ea0d8a",
+    "docs/cookbook/extension-cookbook.zh.md": "795d8ec985631455b23e555034fda1ba4c7b614f",
+    "apps/cli/src/plugin.ts": "2c9da6eb5b4608d6d78ed0cb0be14e5aac57ce1f"
+  }
+}
