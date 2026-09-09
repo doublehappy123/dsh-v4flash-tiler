@@ -1,13 +1,13 @@
 {
   "paths": {
-    "docs/user/develop/basic/publish.zh.md": "0b5eba0c8d59e8310cd0050a21832c5840ee0cfb",
+    "docs/user/develop/basic/publish.zh.md": "dd25e1e6b389423d2f3ae021783c0221ac80c352",
     "docs/subsystems/scope.zh.md": "a7a5be1703dd975c375ec1a2754d328485eaad18",
     "docs/subsystems/attachment.zh.md": "f0e52c2731a9074e6217c800b1f05d3bd92e4eac",
-    "docs/subsystems/tools.zh.md": "70af4edf3e12b27b17218234979975e322257a12",
+    "docs/subsystems/tools.zh.md": "bad4254d71448679d9f850447dfcaf8a33d5dac8",
     "docs/subsystems/shell.zh.md": "e9f1b6c53ef959763bd33945c483383672af8084",
-    "docs/subsystems/core.zh.md": "0348599f04a55e0f2189b17829c705c82af29ec2",
+    "docs/subsystems/core.zh.md": "e11b2a5558829d0a144146c96e0e9a2da262cf84",
     "docs/subsystems/web-client.zh.md": "f99b06eaed81d6fe4fc64d44687450e18ef68a67",
-    "docs/cookbook/extension-cookbook.zh.md": "f99b06eaed81d6fe4fc64d44687450e18ef68a67",
+    "docs/cookbook/extension-cookbook.zh.md": "705f84f9527d52f3c46b9d5b31efbfe5d5678283",
     "apps/cli/src/plugin.ts": "2c9da6eb5b4608d6d78ed0cb0be14e5aac57ce1f"
   }
 }
