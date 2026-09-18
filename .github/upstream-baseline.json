@@ -5,9 +5,9 @@
     "docs/subsystems/attachment.zh.md": "ba30b73f7b387d153ee46744ad1e8babd5d5debd",
     "docs/subsystems/tools.zh.md": "55e53907ab90ab8319e591d04d3af51cdc70f5f8",
     "docs/subsystems/shell.zh.md": "739285c813e4e7387920646409afe50f72e411a6",
-    "docs/subsystems/core.zh.md": "fd7ee32315dd89c304cd74d3cf6b9e7e565dbb25",
-    "docs/subsystems/web-client.zh.md": "5f773a0ded81f29c5b23809e4065d6103238cb84",
+    "docs/subsystems/core.zh.md": "cf4ba60b479447939acd4305f051b2872b9d5ff7",
+    "docs/subsystems/web-client.zh.md": "2438bdd4d6420f87d21fc6ec4bfa7f8f03e1849b",
     "docs/cookbook/extension-cookbook.zh.md": "0a382becb3ae6824c32512fb942730bbd24448f4",
-    "apps/cli/src/plugin.ts": "2c9da6eb5b4608d6d78ed0cb0be14e5aac57ce1f"
+    "apps/cli/src/plugin.ts": "61665c3454c269190acc14691c05e5ea4fa7a818"
   }
 }
