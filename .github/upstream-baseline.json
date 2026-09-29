@@ -8,6 +8,6 @@
     "docs/subsystems/core.zh.md": "86331673d9e7b03bfa7f2432aa4e50c5ee20ca47",
     "docs/subsystems/web-client.zh.md": "1103c1a7dd79774979443047c981fd500de94636",
     "docs/cookbook/extension-cookbook.zh.md": "0a382becb3ae6824c32512fb942730bbd24448f4",
-    "apps/cli/src/plugin.ts": "51d70c5f5cb68560c43d259033cf7aef55c41af6"
+    "apps/cli/src/plugin.ts": "0e5ab65758732580588db0dd2ff51427641306e0"
   }
 }
