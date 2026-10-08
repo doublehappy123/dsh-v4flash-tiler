@@ -1,6 +1,6 @@
 {
   "name": "dsh-v4flash-tiler",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "DSH plugin: auto-tiles oversized chat images into labelled grid pieces (row/col metadata, overlap-aware, multi-image group isolation) so the DeepSeek vision model keeps fine detail instead of the ~800px downsample.",
   "type": "module",
   "main": "lib/index.js",
