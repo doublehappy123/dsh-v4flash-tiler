@@ -2,12 +2,12 @@
   "paths": {
     "docs/user/develop/basic/publish.zh.md": "3de3a977e0cca074b17744f7372644bc57ee63bd",
     "docs/subsystems/scope.zh.md": "73dbbb751c2ad113cd65d40c99c1942d0c83dc06",
-    "docs/subsystems/attachment.zh.md": "aa2ae5c779515d28f20926f7be1514aca7cceb89",
-    "docs/subsystems/tools.zh.md": "43928bf03fcd8dda0580bd46f63554f469d72d5b",
+    "docs/subsystems/attachment.zh.md": "6dafa66dc6a08ef6b4efd82295823ecbc8d886bd",
+    "docs/subsystems/tools.zh.md": "47b6867566b371426a0a88968f33d544b245dde1",
     "docs/subsystems/shell.zh.md": "c7f66d13a646ae54926bc3784f7544db643d6653",
-    "docs/subsystems/core.zh.md": "2a3d143eaaab89ed3a8434bb0a0ea1dada35fffb",
+    "docs/subsystems/core.zh.md": "d6dc8890b976fcc7a4b2d06d132433054580ca9a",
     "docs/subsystems/web-client.zh.md": "a18488955d53ada841921d56e3a07695d97ed371",
-    "docs/cookbook/extension-cookbook.zh.md": "c7f66d13a646ae54926bc3784f7544db643d6653",
-    "apps/cli/src/plugin.ts": "0e5ab65758732580588db0dd2ff51427641306e0"
+    "docs/cookbook/extension-cookbook.zh.md": "7aaa6b3c5ab52ab93741c55cd5e5e16fea96d064",
+    "apps/cli/src/plugin.ts": "e0e37bfd3d49f5871295113829f8c4fa54bfe70b"
   }
 }
